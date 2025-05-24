@@ -18,4 +18,3 @@ ORDER_TEMPLATE = {
     "comment": "Saske, come back to Konoha",
     "color": ["BLACK"]
 }
-

@@ -14,5 +14,3 @@ def created_courier(courier_data):
     login_response = AuthMethods.login_courier(courier_data)
     courier_id = login_response.json().get("id")
     CourierMethods.delete_courier(courier_id)
-
-
